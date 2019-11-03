@@ -1,0 +1,185 @@
+.welcome_background{
+    width: 100%;
+}
+
+.welcome_text{
+    position: absolute;
+    top: 30%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Segoe UI",Arial,sans-serif;
+    color: white;
+    font-size: 27px;
+    font-weight: bold;
+    line-height: 32px;
+    margin-bottom: 16px;
+    margin-top: 32px;
+    width: 65%;
+}
+
+.welcome_sub{
+    position: absolute;
+    top: 40%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family: "Segoe UI",Arial,sans-serif;
+    color: white;
+    font-size: 18px;
+    font-weight: bold;
+    line-height: 32px;
+    margin-bottom: 16px;
+    margin-top: 32px;
+    width: 65%;
+}
+
+.hhouse_text {
+    font-size: 27px;
+    line-height: 32px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: bold;
+    color: black;
+    width: 65%;
+    margin-left: 100px;
+}
+
+.hhouse_subtext{
+    font-size: 18px;
+    line-height: 32px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-weight: bold;
+    color: black;
+    width: 65%;
+    margin-left: 100px;
+}
+
+.main-logo {
+    width:40px;
+}
+
+.login-crow {
+    img {
+        width: 30%;
+        float: left;
+}
+}
+
+.welcome {
+    color: rgb(29, 161, 242);
+    font-size: 25px;
+    float: right;
+
+}
+
+.login-logo {
+    img {
+    width: 10px;
+    }
+}
+
+.side-nav{
+
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    font-size: 20px;
+    text-align: center;
+    font-family: "Segoe UI",Arial,sans-serif;
+    color: rgb(29, 161, 242);
+    margin: 0px;
+    padding: 0px;
+
+}
+
+.btn-w {
+    width: 100%;
+    padding: 5px;
+}
+
+.reg-logo {
+    position: relative;
+    text-align: center;
+}
+
+.tweet-area {
+    border-style: solid;
+    border-color: rgb(230, 236, 240);
+    border-width: 2px;
+    padding: 20px;
+    padding-bottom: 50px;
+    border-bottom-width: 10px;
+    font-family: "Segoe UI",Arial,sans-serif;
+    font-size: 20px;
+}
+
+.tweet-feed {
+    border-style: solid;
+    border-color: rgb(230, 236, 240);
+    border-width: 2px;
+    padding: 20px;
+    font-family: "Segoe UI",Arial,sans-serif;
+}
+
+body {
+    background-color: white;
+}
+
+.small-icon{
+    width: 30px;
+}
+
+.username{
+    font-weight: bold;
+    padding: 0px;
+    span{
+        font-weight: normal;
+    }
+}
+
+.form-control{
+    font-size: 25px;
+}
+
+.cluck-it-btn{
+    position: absolute;
+    left: 530px;
+}
+
+.comment{
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(230, 236, 240);
+}
+
+.tweet-area-total{
+    width: 650px;
+    word-wrap: break-word;
+}
+
+.top-of-feed{
+    position: sticky;
+    top: 0px;
+    border-width: 2px;
+    border-style: solid;
+    border-color: rgb(230, 236, 240);
+    font-family: "Segoe UI",Arial,sans-serif;
+    background-color: white;
+        h1{
+            font-weight: bold;
+            font-size: 20px;
+            padding: 10px;
+            margin: 0px;
+}
+}
+
+.left-bar{
+    a{
+    font-family: "Segoe UI",Arial,sans-serif;
+    color: black;
+    font-weight: bold;
+}
+}
+
+.roost{
+    position:relative;
+    right: 25px;
+}
